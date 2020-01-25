@@ -11,9 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^24.9.1",
     "@types/node": "^13.5.0",
     "concurrently": "^5.0.2",
+    "jest": "^25.1.0",
     "nodemon": "^2.0.2",
+    "ts-jest": "^25.0.0",
     "typescript": "^3.7.5"
   },
   "dependencies": {

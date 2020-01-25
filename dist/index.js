@@ -5,5 +5,5 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const server_1 = __importDefault(require("./server"));
 console.log("Hello from typescript");
-let server = new server_1.default(4000);
+let server = new server_1.default(777);
 server.start();
